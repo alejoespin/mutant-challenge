@@ -34,8 +34,6 @@ El servicio de verificación de ADN requiere un **JSON** con la siguiente estruc
 
 ### Response
 
-El servicio responde un status diferente
-
 ### Respuesta al identificar un **mutante**
 
 ```js
