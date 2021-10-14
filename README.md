@@ -438,15 +438,15 @@ Outputs:
 ```
 Una vez creada la infraestructura se deben desplegar las fuentes proporcionadas en este repositorio
 
-Para desplegar se debe clonar el repositorio:
+Para desplegar se debe clonar el repositorio
 ```sh
-http://github.com/alejoespin/mutant-challenge.git
+git clone http://github.com/alejoespin/mutant-challenge.git
 ```
-instalar las librerías
+instalar las librerías necesarias
 ```sh
 npm i
 ```
-construir los comprimidos para desplegar en AWS
+y construir los archivos para desplegar en AWS
 ```sh
 npm run build
 ```
